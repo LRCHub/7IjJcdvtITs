@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Somewhere In My Lifetime",
+  "base_artist": "Phyllis Hyman",
+  "createdAt": "2025-12-23T17:36:10.565505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere in My Lifetime",
+      "artist": "Phyllis Hyman",
+      "has_synced": false,
+      "path": "select/01_Somewhere_in_My_Lifetime_Phyllis_Hyman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere In My Lifetime",
+      "artist": "Phyllis Hyman",
+      "has_synced": true,
+      "path": "select/02_Somewhere_In_My_Lifetime_Phyllis_Hyman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somewhere In My Lifetime",
+      "artist": "Phyllis Hyman",
+      "has_synced": false,
+      "path": "select/03_Somewhere_In_My_Lifetime_Phyllis_Hyman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere in My Lifetime",
+      "artist": "Charlie Rich",
+      "has_synced": false,
+      "path": "select/04_Somewhere_in_My_Lifetime_Charlie_Rich.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somewhere In My Lifetime",
+      "artist": "Phyllis Hyman",
+      "has_synced": false,
+      "path": "select/pl_01_Somewhere_In_My_Lifetime_Phyllis_Hyman.txt"
+    }
+  ]
+}
