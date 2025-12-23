@@ -1,0 +1,31 @@
+# Phyllis Hyman – Somewhere In My Lifetime
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Somewhere in my lifetime
+You've been here with me
+Oh so close to me
+Somewhere in my lifetime
+Somewhere in my lifetime
+I have kissed your lips
+Lips so tenderly
+They've been kissing me
+They were visions
+Of so long ago
+You know memories come and go
+So they say
+People say, yes they do
+Let visions of what
+Of what will be
+Somewhere in my lifetime
+It was you and me... You and me
+Somewhere in my lonely dreams
+You've been here with me
+Oh so close to me
+And I've been loving you
+Somewhere in my lifetime
+Somewhere in my lifetime
+Somewhere in my lifetime
+It was you... and... me...
+```
